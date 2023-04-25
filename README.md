@@ -12,5 +12,6 @@ https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?s
 
 <img width="1051" alt="" src="https://user-images.githubusercontent.com/67431758/234425422-181168b4-d9bf-44ad-8c88-41f6121fccb2.png">
 
+<h5 align="center">Decision Tree</h5>
 
 ![Unknown-3](https://user-images.githubusercontent.com/67431758/232098359-0dd1fa53-1583-45cf-8619-0b1d774265d8.png)
