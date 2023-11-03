@@ -1,4 +1,4 @@
-# Human Resources - prediction of employees resignation
+# Human Resources - prediction of employees resignation 
 
 <img width="400" alt="" src="https://user-images.githubusercontent.com/67431758/232096618-1b108d4b-d556-440e-b135-67b2a89c1782.png">
 
